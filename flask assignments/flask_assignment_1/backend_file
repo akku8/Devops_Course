@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "cnf_pwd": "1234",
+      "email": "test1@gmail.com",
+      "name": "Test",
+      "pwd": "1234"
+    },
+    {
+      "cnf_pwd": "1234",
+      "email": "test2@gmail.com",
+      "name": "Test",
+      "pwd": "1234"
+    },
+    {
+      "cnf_pwd": "1234",
+      "email": "test3@gmail.com",
+      "name": "Test",
+      "pwd": "1234"
+    },
+    {
+      "cnf_pwd": "1234",
+      "email": "as@gmail.com",
+      "name": "Akshaya",
+      "pwd": "1234"
+    }
+  ]
+}
